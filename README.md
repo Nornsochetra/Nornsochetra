@@ -1,16 +1,53 @@
-## Hi Bro 👋
+# Hi there, I'm Norn So Chetra 👋
 
-<!--
-**Nornsochetra/Nornsochetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full-Stack Developer specializing in mobile and web technologies. I enjoy building clean, functional, and user-centric applications. Currently, I am focused on mastering modern frameworks and enhancing my UI/UX design skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
+
+---
+
+### 🛠️ Tools & Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🎓 Education
+
+- 🏫 **Institute:** SETec Institute
+- 📖 **Major:** Management Information System (MIS)
+- ⏳ **Status:** Year 3, Semester 2
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** [nornsochetra@gmail.com](mailto:nornsochetra@gmail.com)
+- **GitHub:** [Nornsochetra](https://github.com/Nornsochetra)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nornsochetra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nornsochetra&layout=compact&langs_count=7&theme=radical" />
+</p>
