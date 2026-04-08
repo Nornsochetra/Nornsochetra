@@ -32,7 +32,7 @@ I am a passionate Full-Stack Developer specializing in mobile and web technologi
 
 ### 🎓 Education
 
-- 🏫 **Institute:** SETec Institute
+- 🏫 **Institute:** SETEC Institute
 - 📖 **Major:** Management Information System (MIS)
 - ⏳ **Status:** Year 3, Semester 2
 
