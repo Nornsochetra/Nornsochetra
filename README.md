@@ -1,7 +1,5 @@
 # Hi there, I'm Norn So Chetra 👋
 
-I am a passionate Full-Stack Developer specializing in mobile and web technologies. I enjoy building clean, functional, and user-centric applications. Currently, I am focused on mastering modern frameworks and enhancing my UI/UX design skills.
-
 ---
 
 ### 🚀 Languages & Frameworks
