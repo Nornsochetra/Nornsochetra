@@ -1,44 +1,51 @@
-# Hi there, I'm Norn So Chetra 👋
+<h1>Hi there, I'm Norn So Chetra 👋</h1>
 
----
-
-### 🚀 Languages & Frameworks
+## Languages & Frameworks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,swift,html,css,js&theme=light" alt="Java, Spring Boot, React, Next.js, Swift / SwiftUI, HTML, CSS, JavaScript" />
+  </a>
 </p>
+
+## Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,docker&theme=light" alt="Figma, GitHub, Docker" />
+  </a>
 </p>
 
----
-
-### 🛠️ Tools & Design
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🎓 Education
+## Education
 
 - 🏫 **Institute:** SETEC Institute
 - 📖 **Major:** Management Information System (MIS)
-- ⏳ **Status:** Year 3, Semester 2
+- ⏳ **Status:** Year 4, Semester 1
 
----
+## Mail Me
 
-### 📫 Let's Connect
+<p align="left">
+  <a href="mailto:nornsochetra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" height="48" />
+  </a>
+  &nbsp;
+  <a href="mailto:nornsochetra@gmail.com">
+    <img src="https://img.shields.io/badge/nornsochetra@gmail.com-EEEEEE?style=for-the-badge&labelColor=EEEEEE" alt="nornsochetra@gmail.com" height="48" />
+  </a>
+</p>
 
-- **Email:** [nornsochetra@gmail.com](mailto:nornsochetra@gmail.com)
-- **GitHub:** [Nornsochetra](https://github.com/Nornsochetra)
+## Connect with me
 
----
+<p align="left">
+  <a href="https://github.com/Nornsochetra">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:nornsochetra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/sct_sctt">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" />
+  </a>
+</p>
