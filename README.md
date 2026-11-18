@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Norn So Chetra 👋</h1>
+<h1>Hi there👋</h1>
 
 ## Languages & Frameworks
 
